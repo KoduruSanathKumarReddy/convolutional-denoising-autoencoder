@@ -24,7 +24,7 @@ Rescale the data as that the training made easy
 
 ### STEP 5:
 
-## Add noise to the image .
+Add noise to the image .
 
 ## STEP 4:
 
