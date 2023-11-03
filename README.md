@@ -15,14 +15,24 @@ We are attempting to extract the noise that was introduced to the encoder portio
 
 
 ## DESIGN STEPS
-
 ### STEP 1:
 
+Load the mnist data set and split the dataset into the train and test dataset.
 ### STEP 2:
 
-### STEP 3:
+Rescale the data as that the training made easy
 
-Write your own steps
+### STEP 5:
+
+## Add noise to the image .
+
+## STEP 4:
+
+Create the model for the program.
+
+## STEP 5:
+
+In this experiment we create to networks , one for encoding and one for decoding
 
 ## PROGRAM
 
